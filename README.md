@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **Camino de Pablos**
+- 👀 I’m interested in **Data Science**, **Data Analysis**, **Python** and much more
+- 🌱 I’m currently learning Data Science & Machine Learning
+- 📫 Feel free to contact me via LinkedIn: https://www.linkedin.com/in/caminodepablos/
